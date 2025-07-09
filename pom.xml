@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kevine</groupId>
-	<artifactId>practice-github-pilot-group</artifactId>
+	<artifactId>practice-github-pilot-groupRojaK</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>practice-github-pilot-group</name>
 	<description>Demo project for Spring Boot</description>
